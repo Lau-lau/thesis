@@ -10,6 +10,8 @@ Recapitulate important theory papers
 
 lots of plots
 
+some explanatory text
+
 ## Bibliography
 
 [1] Important

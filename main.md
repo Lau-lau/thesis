@@ -12,4 +12,8 @@ lots of plots
 
 ## Bibliography
 
+[1] Important
+[2] Paper 2
+
 ## Appendix
+I want to thank my family.
